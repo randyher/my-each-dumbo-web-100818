@@ -7,4 +7,5 @@ end
 arr
 end
 
-my_each(x)
+my_each(x) do |i|
+  
