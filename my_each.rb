@@ -7,4 +7,4 @@ end
 arr
 end
 
-my_each()
+my_each(x)
