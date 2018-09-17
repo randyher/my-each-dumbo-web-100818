@@ -8,4 +8,5 @@ arr
 end
 
 my_each(x) do |i|
-  
+  puts i 
+end 
