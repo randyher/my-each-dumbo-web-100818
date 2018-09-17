@@ -5,3 +5,4 @@ def my_each (arr)
   a+=1
 end
 end
+
