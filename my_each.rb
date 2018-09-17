@@ -7,3 +7,4 @@ end
 arr
 end
 
+my_each()
